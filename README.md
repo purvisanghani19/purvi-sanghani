@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a frontend Devloper.
 -------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [purvisanghani1@gmail.com](mailto:purvisanghani1@gmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning NodeJS.
 * 🤝  I'm open to collaborating on projects that need a UI refresh!
 * ⚡  Fun fact: I love exploring new UI trends!
 
